@@ -5,8 +5,9 @@ function count (input) {
     for (let i = 0; i<mathTable.length; i++) {
         let values = mathTable[i];
         let result = values * input;
-        console.log(result);      
+        console.log(result); 
     }
     
 }
 count(2);
+
