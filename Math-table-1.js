@@ -11,4 +11,3 @@ function count (input) {
 }
 count(2);
 
-// done
